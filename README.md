@@ -19,5 +19,7 @@ So even if a user is not adding new stocks to his/her portfolio, this initial se
 ## add stocks
 If there are any stocks that the user is interested in owning, Smart-Investor will obtain the neccesary data and using Modern Portfolio Theory will determine if these should be added to the portfolio or not using the prtfolio improvement rule:
 
+[Portfolio improvement](Port_improv_rule.png)
+
 ## Monte Carlo Simulation
 Using Monte Carlo to simulate cummulative returns using the optimized portfolio mean and standard deviation drawn from a normal distribution.
